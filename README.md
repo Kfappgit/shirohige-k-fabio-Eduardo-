@@ -746,15 +746,15 @@
 
                 </div>
                 <div class="sidebar">
-                    <img src="C:\Users\fabio\OneDrive\program past\Imagens\baloes.jpeg"align:left >
-                    <img src="C:\Users\fabio\OneDrive\program past\Imagens\baloes.jpeg"align:left >
+                    <img src="g"align:left >
+                    <img src=""align:left >
                 </div>
             </section>
             <div data-v-0a922ae7="" class="landing-application">
                 <div data-v-0a922ae7="" class="landing-application__bg">
                 </div>
                  <div data-v-0a922ae7="" class="container landing-application-container">
-                     <img data-v-0a922ae7="" src="https://res.cloudinary.com/glovoapp/image/fetch//w_500,h_466,c_fit,f_auto,q_auto/https://glovoapp.com/images/landing/phone_courier_promo.png" alt="Glovo App" class="column landing-application-container__phone">
+                     <img data-v-0a922ae7="" src="" alt="Glovo App" class="column landing-application-container__phone">
                      <div data-v-0a922ae7="" class="column landing-application-container__description">
                          <h2 data-v-0a922ae7="" class="title title__install-app">
                              <span data-v-0a922ae7="" class="title__line">Siga suas entregas</span>
@@ -772,8 +772,8 @@
               </span>
             </p>
              <div data-v-0a922ae7="" class="buttons">
-                <a data-v-0a922ae7="" href="https://app.adjust.com/xle4el" class="column">
-                    <img data-v-0a922ae7="" src="https://res.cloudinary.com/glovoapp/image/fetch///https://glovoapp.com/images/app_store/download-button.svg" alt="App Store" class="store-icon"></a> <a data-v-0a922ae7="" href="https://app.adjust.com/ule61n?redirect=http%3A%2F%2Fplay.google.com/store/apps/details?id=com.glovo&amp;hl=es" class="column"><img data-v-0a922ae7="" src="https://res.cloudinary.com/glovoapp/image/fetch///https://glovoapp.com/images/google_play/download-button.svg" alt="Google play" class="store-icon">
+                <a data-v-0a922ae7="" href="" class="column">
+                    <img data-v-0a922ae7="" src=" alt="App Store" class="store-icon"></a> <a data-v-0a922ae7="" href="" class="column"><img data-v-0a922ae7="" src="" alt="Google play" class="store-icon">
                     </a>
                 </div>
             </div>
@@ -783,7 +783,7 @@
         <div data-v-abe475c0="" class="title">Estamos construindo a Glovo juntos!</div>
         <div data-v-abe475c0="" class="collection cols">
             <div data-v-4f722d34="" data-test-id="collection-item" class="collection-item collection-item--with-button col one-third" full-width-mobile="true">
-                <img data-v-4f722d34="" src="C:\Users\fabio\OneDrive\program past\Imagens\Vaga-para-Entregador-em-Teresina.jpg" alt="Entregadores" class="card-image card-image--top">
+                <img data-v-4f722d34="" src="" alt="Entregadores" class="card-image card-image--top">
                  <div data-v-4f722d34="" class="card-content">
                      <div data-v-4f722d34="">
                          <div data-v-4f722d34="" class="title">Entregadores</div>
@@ -793,11 +793,11 @@
         Seja seu próprio chefe. Faça seu horário, tarifas competitivas e oportunidade de você conhecer sua cidade. Cadastre-se e esteja conectado ao App em menos de 24 horas.
       </div>
     </div>
-     <a data-v-4f722d34="" target="_blank" rel="noopener" href="https://glovoapp.com/pt-br/glovers" class="button md">Faz entregas connosco</a>
+     <a data-v-4f722d34="" target="_blank" rel="noopener" href="h" class="button md">Faz entregas connosco</a>
     </div>
 </div>
 <div data-v-4f722d34="" data-test-id="collection-item" class="collection-item collection-item--with-button col one-third" full-width-mobile="true">
-    <img data-v-4f722d34="" src="C:\Users\fabio\OneDrive\program past\Imagens\shop-icon.png" alt="Lojas parceiras" class="card-image card-image--center">
+    <img data-v-4f722d34="" src="" alt="Lojas parceiras" class="card-image card-image--center">
     <div data-v-4f722d34="" class="card-content">
         <div data-v-4f722d34="">
             <div data-v-4f722d34="" class="title">Lojas parceiras</div>
@@ -808,11 +808,11 @@
         Turbine seus negócios tornando-se um parceiro e aproveitando as ferramentas, a tecnologia e a base de clientes que traz uma cidade inteira à sua porta.
       </div>
     </div>
-    <a data-v-4f722d34="" href="https://cloud.partner.glovoapp.com/Partners" class="button md">Seja nosso parceiro</a>
+    <a data-v-4f722d34="" href="" class="button md">Seja nosso parceiro</a>
 </div>
 </div>
 <div data-v-4f722d34="" data-test-id="collection-item" class="collection-item collection-item--with-button col one-third" full-width-mobile="true">
-    <img data-v-4f722d34="" src="C:\Users\fabio\OneDrive\program past\Imagens\transferir.png" alt="Carreiras" class="card-image card-image--center">
+    <img data-v-4f722d34="" src="" alt="Carreiras" class="card-image card-image--center">
      <div data-v-4f722d34="" class="card-content">
          <div data-v-4f722d34="">
              <div data-v-4f722d34="" class="title">Carreiras</div>
@@ -823,7 +823,7 @@
         Estamos nos destacando num ambiente competitivo. É preciso objetividade, coração e muito trabalho em equipe. Pronto para entrar?
       </div>
     </div>
-     <a data-v-4f722d34="" href="https://jobs.glovoapp.com" class="button md">Junta-te à equipa</a>
+     <a data-v-4f722d34="" href="" class="button md">Junta-te à equipa</a>
     </div>
 </div>
 </div>
@@ -833,52 +833,46 @@
       <div class="row">
         <div class="col-sm-12 col-md-6">
           <h6>About</h6>
-          <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+          <p class="text-justify"> <i> </i> </p>
         </div>
 
         <div class="col-xs-6 col-md-3">
-          <h6>Categories</h6>
-          <ul class="footer-links">
-            <li><a href="http://scanfcode.com/category/c-language/">C</a></li>
-            <li><a href="http://scanfcode.com/category/front-end-development/">UI Design</a></li>
-            <li><a href="http://scanfcode.com/category/back-end-development/">PHP</a></li>
-            <li><a href="http://scanfcode.com/category/java-programming-language/">Java</a></li>
-            <li><a href="http://scanfcode.com/category/android/">Android</a></li>
-            <li><a href="http://scanfcode.com/category/templates/">Templates</a></li>
-          </ul>
-        </div>
-
-        <div class="col-xs-6 col-md-3">
-          <h6>Quick Links</h6>
-          <ul class="footer-links">
-            <li><a href="http://scanfcode.com/about/">About Us</a></li>
-            <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
-            <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Contribute</a></li>
-            <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
-            <li><a href="http://scanfcode.com/sitemap/">Sitemap</a></li>
-          </ul>
-        </div>
-      </div>
-      <hr>
+      <h6>Categories</h6>
+      <ul class="footer-links">
+        <li><a href="">FAQ</a></li>
+        <li><a href="">Entre em contato</a></li>
+      </ul>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-sm-6 col-xs-12">
-          <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-       <a href="#">Scanfcode</a>.
-          </p>
-        </div>
-
-        <div class="col-md-4 col-sm-6 col-xs-12">
-          <ul class="social-icons">
-            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
-            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>   
-          </ul>
-        </div>
-      </div>
+<div class="col-xs-6 col-md-3">
+      <h6>Nós</h6>
+      <ul class="footer-links">
+         <li><a href="">Carreira</a></li>
+        <li><a href="">Lojas Parceiras</a></li>
+        <li><a href="">Contact Us</a></li>
+        <li><a href="">Entregadores</a></li>
+         
+        <li><a href="">Privacy Policy</a></li>
+        <li><a href="">Termos e condições</a></li>
+        <li><a href="">Privacy Cookie</a></li>
+     </ul>
     </div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-sm-6 col-xs-12">
+      <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by
+   <a href="#"></a>.
+      </p>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12">
+      <ul class="social-icons">
+        <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
 </footer>
             <script>
 
